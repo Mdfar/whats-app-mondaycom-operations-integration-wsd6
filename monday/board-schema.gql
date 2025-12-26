@@ -1,0 +1,1 @@
+mutation { create_item ( board_id: 123456789, group_id: "new_tasks", item_name: "Voice Task: Check Inventory", column_values: "{"status": {"label": "Stuck"}, "text": "Full transcript from WhatsApp voice note goes here..."}" ) { id } }
